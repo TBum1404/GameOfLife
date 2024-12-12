@@ -1,0 +1,9 @@
+﻿  Feld.cpp
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Feld.cpp(65,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  main.cpp
+  Code wird generiert.
+  1 of 194 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Beleg.vcxproj -> C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\x64\Release\Beleg.exe

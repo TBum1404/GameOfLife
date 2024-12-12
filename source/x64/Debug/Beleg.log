@@ -1,0 +1,7 @@
+﻿  Display.cpp
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Display.cpp(117,23): warning C4101: "msg": Unreferenzierte lokale Variable
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Display.cpp(198,23): warning C4101: "msg": Unreferenzierte lokale Variable
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Display.cpp(245,23): warning C4101: "msg": Unreferenzierte lokale Variable
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Display.cpp(370,35): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\Display.cpp(526,7): warning C4101: "tmpChar": Unreferenzierte lokale Variable
+  Beleg.vcxproj -> C:\Users\tomra\OneDrive\Desktop\Studium\SSM 24\PROG II\Beleg\x64\Debug\Beleg.exe
